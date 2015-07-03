@@ -1,4 +1,4 @@
-# JoyOfREPL
+# The Joy Of REPL
 **Richard Dalton**
 
 ### Summary
